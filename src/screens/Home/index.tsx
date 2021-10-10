@@ -5,7 +5,7 @@ import { SafeAreaView, Text } from 'react-native';
 const Home: React.FC = () => {
   return (
     <SafeAreaView>
-      <Text>Tela home</Text>
+      <Text>Tela Home</Text>
     </SafeAreaView>
   );
 };
